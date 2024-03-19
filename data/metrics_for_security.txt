@@ -1,0 +1,1 @@
+["lagging_dependencies_count", "health_score", "security_numeric", "popularity_numeric", "maintenance_numeric", "community_numeric", "rank"]

@@ -1,0 +1,1 @@
+["forks", "stars", "watchers", "dependants_count", "no_of_dependencies", "dependant_repos_count", "lagging_dependencies_count"]

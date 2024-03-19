@@ -1,0 +1,1 @@
+["is_deprecated", "dependants_count", "forks", "issues", "pr", "contributors", "unpack_size", "avg_commit_freq", "total_lines_of_code", "sloc", "days_since_last_modification", "file_count"]
