@@ -1,4 +1,4 @@
-# Too many packages - Is it a real problem? - A study on npm ecosystem
+# _Too many packages - Is it a real problem?_ - **A study on npm ecosystem**
 
 ## Description
 This repository contains Jupyter notebooks and data files used for an empirical study on the npm ecosystem. The study aims to investigate if the abundance of npm packages pose any threats to the stability and sustainability of the npm ecosystem.
