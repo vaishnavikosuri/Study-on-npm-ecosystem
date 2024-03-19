@@ -24,6 +24,7 @@ This repository contains Jupyter notebooks and data files used for an empirical 
   - `npm_names_reversed_mining.ipynb`: Mining npm package names in reverse order.
   - `package_data_merging.ipynb`: Merging package data.
   - `package_data_mining_idx.ipynb`: Mining package data in parts.
+  - `sloc/sloc-index.js`: Mining source lines of code data.
 
 - **Data Files**:
   - `columns_to_analyze.txt`: List of columns for distribution analysis.
