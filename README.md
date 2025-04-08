@@ -1,7 +1,21 @@
 # _Too many packages - Is it a real problem?_ - **A study on npm ecosystem**
 
 ## Description
-This repository contains Jupyter notebooks and data files used for an empirical study on the npm ecosystem. The study aims to investigate if the abundance of npm packages pose any threats to the stability and sustainability of the npm ecosystem by developing a threat score.
+This repository contains Jupyter notebooks and datasets used in an empirical study on the npm ecosystem. The primary objective of this project is to investigate whether the rapid and massive proliferation of npm packages poses threats to the stability and sustainability of the ecosystem.
+
+Through the analysis of over 30,000 npm packages, we conducted extensive exploratory data analysis (EDA) to gain a comprehensive understanding of package characteristics and lifecycle trends.
+
+A classification framework was developed to systematically categorize npm packages into the following categories:
+
+Dead
+
+Inactive
+
+Deprecated
+
+Trivial
+
+This categorization was based on predefined parameters and significant predictive features. Additionally, a threat score was devised to quantify potential risks within the ecosystem, helping to identify and prioritize problematic areas.
 
 ## Contents
 - **Analysis Notebooks**: Jupyter notebooks for conducting different analyses:
